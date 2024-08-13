@@ -17,7 +17,7 @@ on:
       export_name:
         description: "Export Name"
         required: true
-        default: "haircut-game"
+        default: "godot-game-template"
       itch_io:
         description: "Itch.io Build"
         required: false
